@@ -16,4 +16,4 @@ POZOR: Kód může být poškozen, protože není testován a první skript, kte
 ---HI---
 ध्यान दें: कोड को तोड़ा जा सकता है क्योंकि इसका परीक्षण नहीं किया गया है और मैंने पहली स्क्रिप्ट बनाई है।
 ---DE---
-ACHTUNG: Der Code kann beschädigt sein, da er nicht getestet wurde und das erste von mir erstellte Skript ist
+ACHTUNG: Der Code kann beschädigt sein, da er nicht getestet wurde und das erste von mir erstellte Skript ist.
