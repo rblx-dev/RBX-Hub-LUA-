@@ -1,6 +1,6 @@
 M-U-S-T / R-E-A-D
 ---EN---
-ATTENSION: Code may be broken as it is not tested and the first script I created.
+ATTENTION: Code may be broken as it is not tested and the first script I created.
 ---RU---
 ВНИМАНИЕ: Код может быть битым, так как он не тестировался и это первый созданный мной скрипт.
 ---ES---
